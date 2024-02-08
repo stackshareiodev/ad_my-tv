@@ -3,14 +3,14 @@
 ## Tech Stack
 stackshareiodev/ad_my-tv is built on the following main stack:
 
-- [Gradle](https://www.gradle.org/) – Java Build Tools
-- [Android SDK](http://developer.android.com) – Frameworks (Full Stack)
 - [C lang](http://en.wikipedia.org/wiki/C_(programming_language)) – Languages
-- [CMake](http://www.cmake.org/) – Java Build Tools
-- [Retrofit](http://square.github.io/retrofit/) – API Tools
 - [Kotlin](https://kotlinlang.org/) – Languages
-- [Android OS](https://www.android.com) – Operating Systems
+- [Android SDK](http://developer.android.com) – Frameworks (Full Stack)
+- [CMake](http://www.cmake.org/) – Java Build Tools
 - [GitHub Actions](https://github.com/features/actions) – Continuous Integration
+- [Gradle](https://www.gradle.org/) – Java Build Tools
+- [Android OS](https://www.android.com) – Operating Systems
+- [Retrofit](http://square.github.io/retrofit/) – API Tools
 
 Full tech stack [here](/techstack.md)
 
@@ -20,14 +20,14 @@ Full tech stack [here](/techstack.md)
 ## Tech Stack
 stackshareiodev/ad_my-tv is built on the following main stack:
 
-- <img width='25' height='25' src='https://img.stackshare.io/service/975/gradlephant-social-black-bg.png' alt='Gradle'/> [Gradle](https://www.gradle.org/) – Java Build Tools
-- <img width='25' height='25' src='https://img.stackshare.io/service/1010/m8jf0po4imu8t5eemjdd.png' alt='Android SDK'/> [Android SDK](http://developer.android.com) – Frameworks (Full Stack)
 - <img width='25' height='25' src='https://img.stackshare.io/no-img-open-source.png' alt='C lang'/> [C lang](http://en.wikipedia.org/wiki/C_(programming_language)) – Languages
-- <img width='25' height='25' src='https://img.stackshare.io/service/2424/0UlUI_y1_400x400.jpg' alt='CMake'/> [CMake](http://www.cmake.org/) – Java Build Tools
-- <img width='25' height='25' src='https://img.stackshare.io/service/2856/retrofit-logo.png' alt='Retrofit'/> [Retrofit](http://square.github.io/retrofit/) – API Tools
 - <img width='25' height='25' src='https://img.stackshare.io/service/3750/pCfEzr6L.png' alt='Kotlin'/> [Kotlin](https://kotlinlang.org/) – Languages
-- <img width='25' height='25' src='https://img.stackshare.io/service/9586/ZvmtaSXW_400x400.jpg' alt='Android OS'/> [Android OS](https://www.android.com) – Operating Systems
+- <img width='25' height='25' src='https://img.stackshare.io/service/1010/m8jf0po4imu8t5eemjdd.png' alt='Android SDK'/> [Android SDK](http://developer.android.com) – Frameworks (Full Stack)
+- <img width='25' height='25' src='https://img.stackshare.io/service/2424/0UlUI_y1_400x400.jpg' alt='CMake'/> [CMake](http://www.cmake.org/) – Java Build Tools
 - <img width='25' height='25' src='https://img.stackshare.io/service/11563/actions.png' alt='GitHub Actions'/> [GitHub Actions](https://github.com/features/actions) – Continuous Integration
+- <img width='25' height='25' src='https://img.stackshare.io/service/975/gradlephant-social-black-bg.png' alt='Gradle'/> [Gradle](https://www.gradle.org/) – Java Build Tools
+- <img width='25' height='25' src='https://img.stackshare.io/service/9586/ZvmtaSXW_400x400.jpg' alt='Android OS'/> [Android OS](https://www.android.com) – Operating Systems
+- <img width='25' height='25' src='https://img.stackshare.io/service/2856/retrofit-logo.png' alt='Retrofit'/> [Retrofit](http://square.github.io/retrofit/) – API Tools
 
 Full tech stack [here](/techstack.md)
 
@@ -38,7 +38,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [stackshareiodev/ad_my-tv](https://github.com/stackshareiodev/ad_my-tv)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|9<br/>Tools used|02/07/24 <br/>Report generated|
+|9<br/>Tools used|02/08/24 <br/>Report generated|
 |------|------|
 </div>
 
