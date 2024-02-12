@@ -1,8 +1,8 @@
 repo_name: stackshareiodev/ad_my-tv
-report_id: 38b17b62932203ecec4bf92d7a3572c0
+report_id: 545890492f491dda16e222cdc75b294f
 version: 0.1
 repo_type: Public
-timestamp: '2024-02-09T13:07:01+00:00'
+timestamp: '2024-02-12T10:29:00+00:00'
 requested_by: lizongying
 provider: github
 branch: main
@@ -42,7 +42,7 @@ tools:
   last_updated_by: Li ZongYing
   last_updated_on: 2023-12-25 11:23:45.000000000 Z
 - name: CMake
-  description: 'An open-source system that manages the build process '
+  description: An open-source system that manages the build process
   website_url: http://www.cmake.org/
   open_source: false
   hosted_saas: false
